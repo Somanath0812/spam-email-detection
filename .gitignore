@@ -19,3 +19,6 @@ backend/ml/models/
 
 # Python environment files
 .env
+
+# Local DVC storage
+dvc-storage/
