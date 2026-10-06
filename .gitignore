@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# MLflow database
+mlflow.db
+
+# MLflow artifacts
+mlruns/
+
+# Trained model
+backend/ml/models/
+
+# IDE files
+.vscode/
+
+# Python environment files
+.env
